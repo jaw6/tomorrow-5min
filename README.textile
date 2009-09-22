@@ -1,0 +1,3 @@
+h1. Tomorrow's Programming Languages Today
+
+I presented this as a 5-minute "Ignite Talk" at "Stay Fresh 12":http://refresh-events.ca/events/stayfresh12-colin-bowern/ last night. The general theme is looking at what's happening in currently developing languages, trying to make predictions of how languages of the future will work.
